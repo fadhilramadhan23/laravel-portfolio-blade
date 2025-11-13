@@ -426,7 +426,7 @@
                 <p class="novel-description">
                     Karya terbaru yang menghadirkan cerita menarik dengan karakter yang kuat dan plot yang mengharukan.
                 </p>
-                <a href="https://www.fizzo.org/page/share/?bid=7358763976437529802&isNew=1&from=whatsapp&group=2&d=7840976461010614013&u=7839621574283539709&language=id&region=ID" target="_blank" class="btn btn-purple">
+                <a href="https://www.fizzo.org/page/share/?bid=7358763976437529802&isNew=1&from=copy_link&group=2&d=7840976461010614013&u=7839621574283539709&language=id&region=ID" target="_blank" class="btn btn-purple">
                     <span>📖</span>
                     Baca di Fizzo
                 </a>
