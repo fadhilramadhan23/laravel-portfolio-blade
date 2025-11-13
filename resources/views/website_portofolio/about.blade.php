@@ -117,8 +117,8 @@
                 <div class="max-w-3xl mx-auto">
                     <div class="bg-gradient-to-r from-purple-50 to-pink-50 p-8 rounded-3xl shadow-lg">
                         <div class="flex items-start gap-6">
-                            <div class="bg-purple-600 text-white w-16 h-16 rounded-full flex items-center justify-center text-2xl font-bold flex-shrink-0">
-                                🎓
+                            <div class="bg-white w-16 h-16 rounded-full flex items-center justify-center flex-shrink-0 shadow-md overflow-hidden">
+                                <img src="/images/logo-uneng.png" alt="Logo UNM" class="w-12 h-12 object-contain">
                             </div>
                             <div>
                                 <h3 class="text-2xl font-bold text-gray-800 mb-2">Universitas Negeri Makassar</h3>
