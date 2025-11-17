@@ -2,6 +2,12 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ProjectController;
+use App\Http\Controllers\NovelController;
+use App\Http\Controllers\ContactController;
+
 // Home Page
 Route::get('/', function () {
     return view('website_portofolio.index');
