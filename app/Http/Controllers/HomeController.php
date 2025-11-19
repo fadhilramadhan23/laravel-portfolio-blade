@@ -21,6 +21,6 @@ class HomeController extends Controller
             ]
         ];
 
-        return view('welcome', compact('data'));
+        return view('websiteportofolio.index', compact('data'));
     }
 }
